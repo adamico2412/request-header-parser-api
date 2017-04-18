@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/adamico2412/request-header-parser-api/issues"
   },
-  "homepage": "https://github.com/adamico2412/request-header-parser-api#readme"
+  "homepage": "https://github.com/adamico2412/request-header-parser-api#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
 }
